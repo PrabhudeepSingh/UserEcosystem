@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "458234054319",
+    "firebase_url": "https://userecosystem.firebaseio.com",
+    "project_id": "userecosystem",
+    "storage_bucket": "userecosystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458234054319:android:bdce3988758e7e16",
+        "android_client_info": {
+          "package_name": "com.prabhudeepsingh.userecosystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458234054319-j1vq4lutoor8qunk97qcvv7ldvbkm8tt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx9snQwsNR4jDKwsrjkZ8M964VqEQla3o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
